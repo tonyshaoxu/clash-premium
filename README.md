@@ -1,2 +1,2 @@
 # clash-premium
-Thanks to @/Loyalsoldier/clash-rules
+Thanks to https://github.com/Loyalsoldier/clash-rules
