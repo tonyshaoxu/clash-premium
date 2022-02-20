@@ -1,0 +1,6 @@
+  netflixcidr:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/netflixcidr.yaml"
+    path: ./ruleset/netflixcidr.yaml
+    interval: 86400
