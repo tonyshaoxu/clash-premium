@@ -1,0 +1,6 @@
+  apple:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/apple.yaml"
+    path: ./ruleset/apple.yaml
+    interval: 86400
