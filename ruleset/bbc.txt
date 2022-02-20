@@ -1,11 +1,8 @@
 payload:
-  - '+.bbc'
-  - '+.bbc.co'
   - '+.bbc.co.uk'
   - '+.bbc.com'
   - '+.bbcchinese.com'
   - '+.bbchat.tv'
-  - '+.bbci.co'
   - '+.bbci.co.uk'
   - '+.bbcmonitoringlibrary.com'
   - '+.bbcmundo.com'
