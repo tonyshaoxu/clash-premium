@@ -1,0 +1,6 @@
+  greatfire:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/greatfire.yaml"
+    path: ./ruleset/greatfire.yaml
+    interval: 86400
