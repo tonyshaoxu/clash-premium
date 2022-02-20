@@ -1,0 +1,6 @@
+  applications:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/applications.yaml"
+    path: ./ruleset/applications.yaml
+    interval: 86400
