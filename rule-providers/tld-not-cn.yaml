@@ -1,0 +1,6 @@
+  tld-not-cn:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/tld-not-cn.yaml"
+    path: ./ruleset/tld-not-cn.yaml
+    interval: 86400
