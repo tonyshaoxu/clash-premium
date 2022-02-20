@@ -1,0 +1,6 @@
+  proxy:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/proxy.yaml"
+    path: ./ruleset/proxy.yaml
+    interval: 86400
