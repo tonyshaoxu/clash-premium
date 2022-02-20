@@ -1,0 +1,6 @@
+  reject:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/reject.yaml"
+    path: ./ruleset/reject.yaml
+    interval: 86400
