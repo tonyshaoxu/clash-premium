@@ -1,0 +1,6 @@
+  cncidr:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/cncidr.yaml"
+    path: ./ruleset/cncidr.yaml
+    interval: 86400
