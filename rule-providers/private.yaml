@@ -1,0 +1,6 @@
+  private:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/private.yaml"
+    path: ./ruleset/private.yaml
+    interval: 86400
