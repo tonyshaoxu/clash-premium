@@ -1,0 +1,6 @@
+  icloud:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/icloud.yaml"
+    path: ./ruleset/icloud.yaml
+    interval: 86400
