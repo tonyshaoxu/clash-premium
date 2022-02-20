@@ -1,5 +1,4 @@
 payload:
-  # youtube
   - '+.googlevideo.com'
   - '+.youtubei.googleapis.com'
   - '+.oauthaccountmanager.googleapis.com'
