@@ -1,0 +1,6 @@
+  lancidr:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/lancidr.yaml"
+    path: ./ruleset/lancidr.yaml
+    interval: 86400
