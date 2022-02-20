@@ -1,0 +1,6 @@
+  direct:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/direct.yaml"
+    path: ./ruleset/direct.yaml
+    interval: 86400
