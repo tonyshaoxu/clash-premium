@@ -1,0 +1,6 @@
+  gfw:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/gfw.yaml"
+    path: ./ruleset/gfw.yaml
+    interval: 86400
