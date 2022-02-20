@@ -1,0 +1,6 @@
+  google:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/google.yaml"
+    path: ./ruleset/google.yaml
+    interval: 86400
