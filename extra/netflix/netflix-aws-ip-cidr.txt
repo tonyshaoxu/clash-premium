@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/QiuSimons/Netflix_IP/master/getflix.txt
