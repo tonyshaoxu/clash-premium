@@ -6,6 +6,7 @@ rules:
   - RULE-SET,icloud,DIRECT
   - RULE-SET,apple,DIRECT
   - RULE-SET,google,GOOGLE
+  - RULE-SET,bbc,BBC
   - RULE-SET,youtube,YOUTUBE
   - RULE-SET,netflix,NETFLIX
   - RULE-SET,netflixcidr,NETFLIX,no-resolve
