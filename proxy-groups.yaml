@@ -1,0 +1,67 @@
+proxy-groups:
+  # select is used for selecting proxy or proxy group
+  # you can use RESTful API to switch proxy is recommended for use in GUI.
+  - name: PROXY
+    type: select
+    use:
+      - HK
+      - UK
+      - US      
+
+  - name: NETFLIX
+    type: select
+    use:
+      - HK
+	    - US
+
+  - name: BBC
+    type: select
+    use:
+      - UK
+
+  - name: APPLE
+    type: select
+    use:
+      - HK
+      - US
+    proxies:
+      - DIRECT
+
+  - name: iCLOUD
+    type: select
+    use:
+      - HK
+      - US
+    proxies:
+      - APPLE
+      - DIRECT
+      
+  - name: GOOGLE
+    type: select
+    use:
+      - HK
+      - US
+      - UK
+    proxies:
+      - PROXY      
+
+  - name: YOUTUBE
+    type: select
+    use:
+      - HK
+      - US
+      - UK
+    proxies:
+      - GOOGLE   
+
+  - name: HIJACKING
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+
+  - name: FINAL
+    type: select
+    proxies:     
+      - PROXY 
+      - DIRECT
