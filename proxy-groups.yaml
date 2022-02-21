@@ -12,7 +12,7 @@ proxy-groups:
     type: select
     use:
       - HK
-	    - US
+      - US
 
   - name: BBC
     type: select
