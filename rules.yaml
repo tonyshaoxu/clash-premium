@@ -3,8 +3,8 @@ rules:
   - RULE-SET,lancidr,DIRECT,no-resolve
   - RULE-SET,cncidr,DIRECT,no-resolve
   - RULE-SET,reject,REJECT
-  - RULE-SET,icloud,DIRECT
-  - RULE-SET,apple,DIRECT
+  - RULE-SET,icloud,iCLOUD
+  - RULE-SET,apple,APPLE
   - RULE-SET,google,GOOGLE
   - RULE-SET,bbc,BBC
   - RULE-SET,youtube,YOUTUBE
