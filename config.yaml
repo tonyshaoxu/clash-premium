@@ -156,4 +156,4 @@ tun:
   auto-route: true # auto set global route
   auto-detect-interface: true # conflict with interface-name
 
-proxies:
+#proxies:
