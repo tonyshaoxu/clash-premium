@@ -17,4 +17,4 @@ rules:
   - RULE-SET,proxy,PROXY
   - RULE-SET,direct,DIRECT
   - GEOIP,CN,DIRECT
-  - MATCH,PROXY
+  - MATCH,FINAL
