@@ -16,3 +16,5 @@ payload:
   - '+.netflixdnstest7.com'
   - '+.netflixdnstest8.com'
   - '+.netflixdnstest9.com'
+  - '+.cdn.cookielaw.org'
+  - '+.geolocation.onetrust.com'
