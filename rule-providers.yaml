@@ -113,7 +113,7 @@ rule-providers:
 
   bbc:
     type: http
-    behavior: http
+    behavior: domain
     url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/bbc.txt"
     path: ./ruleset/bbc.yaml
     interval: 86400 
