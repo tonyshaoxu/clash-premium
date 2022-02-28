@@ -117,3 +117,10 @@ rule-providers:
     url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/bbc.txt"
     path: ./ruleset/bbc.yaml
     interval: 86400 
+
+  aws-cn-north-1:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/aws-cn-north-1.txt"
+    path: ./ruleset/aws-cn-north-1.yaml
+    interval: 86400 
