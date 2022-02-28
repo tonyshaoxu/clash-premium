@@ -12,14 +12,14 @@ rules:
   - RULE-SET,youtube,YOUTUBE
   - RULE-SET,netflix,NETFLIX
   - RULE-SET,netflixcidr,NETFLIX,no-resolve
+  - RULE-SET,aws-us-east-1,NETFLIX,no-resolve
+  - RULE-SET,aws-us-east-2,NETFLIX,no-resolve
+  - RULE-SET,aws-us-west-1,NETFLIX,no-resolve
+  - RULE-SET,aws-us-west-2,NETFLIX,no-resolve
   - RULE-SET,gfw,PROXY
   - RULE-SET,greatfire,PROXY
   - RULE-SET,tld-not-cn,PROXY
   - RULE-SET,telegramcidr,PROXY,no-resolve
-  - RULE-SET,aws-us-east-1,PROXY,no-resolve
-  - RULE-SET,aws-us-east-2,PROXY,no-resolve
-  - RULE-SET,aws-us-west-1,PROXY,no-resolve
-  - RULE-SET,aws-us-west-2,PROXY,no-resolve
   - RULE-SET,aws-us-gov-east-1,PROXY,no-resolve
   - RULE-SET,aws-us-gov-east-2,PROXY,no-resolve
   - RULE-SET,proxy,PROXY
