@@ -123,4 +123,53 @@ rule-providers:
     behavior: ipcidr
     url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/aws-cn-north-1.txt"
     path: ./ruleset/aws-cn-north-1.yaml
+    interval: 86400
+
+  aws-cn-northwest-1:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/aws-cn-northwest-1.txt"
+    path: ./ruleset/aws-cn-northwest-1.yaml
+    interval: 86400 
+
+  aws-us-east-1:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/aws-us-east-1.txt"
+    path: ./ruleset/aws-us-east-1.yaml
+    interval: 86400 
+
+  aws-us-west-1:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/aws-us-west-1.txt"
+    path: ./ruleset/aws-us-west-1.yaml
+    interval: 86400 
+
+  aws-us-east-2:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/aws-us-east-2.txt"
+    path: ./ruleset/aws-us-east-2.yaml
+    interval: 86400 
+
+  aws-us-west-2:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/aws-us-west-2.txt"
+    path: ./ruleset/aws-us-west-2.yaml
+    interval: 86400 
+
+  aws-us-gov-east-1:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/aws-us-gov-east-1.txt"
+    path: ./ruleset/aws-us-gov-east-1.yaml
+    interval: 86400 
+
+  aws-us-gov-east-2:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/aws-us-gov-east-2.txt"
+    path: ./ruleset/aws-us-gov-east-2.yaml
     interval: 86400 
