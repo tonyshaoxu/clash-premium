@@ -2,6 +2,8 @@ rules:
   - RULE-SET,applications,DIRECT
   - RULE-SET,lancidr,DIRECT,no-resolve
   - RULE-SET,cncidr,DIRECT,no-resolve
+  - RULE-SET,aws-cn-north-1,DIRECT,no-resolve
+  - RULE-SET,aws-cn-northwest-1,DIRECT,no-resolve
   - RULE-SET,reject,REJECT
   - RULE-SET,icloud,iCLOUD
   - RULE-SET,apple,APPLE
@@ -14,6 +16,12 @@ rules:
   - RULE-SET,greatfire,PROXY
   - RULE-SET,tld-not-cn,PROXY
   - RULE-SET,telegramcidr,PROXY,no-resolve
+  - RULE-SET,aws-us-east-1,PROXY,no-resolve
+  - RULE-SET,aws-us-east-2,PROXY,no-resolve
+  - RULE-SET,aws-us-west-1,PROXY,no-resolve
+  - RULE-SET,aws-us-west-2,PROXY,no-resolve
+  - RULE-SET,aws-us-gov-east-1,PROXY,no-resolve
+  - RULE-SET,aws-us-gov-east-2,PROXY,no-resolve
   - RULE-SET,proxy,PROXY
   - RULE-SET,direct,DIRECT
   - GEOIP,CN,DIRECT
