@@ -2,112 +2,112 @@ rule-providers:
   reject:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/snapei/clash-pro-rules/release/reject.txt"
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/reject.txt"
     path: ./ruleset/reject.yaml
     interval: 86400
 
   icloud:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/snapei/clash-pro-rules/release/icloud.txt"
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/icloud.txt"
     path: ./ruleset/icloud.yaml
     interval: 86400
 
   apple:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/snapei/clash-pro-rules/release/apple.txt"
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/apple.txt"
     path: ./ruleset/apple.yaml
     interval: 86400
 
   google:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/snapei/clash-pro-rules/release/google.txt"
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/google.txt"
     path: ./ruleset/google.yaml
     interval: 86400
 
   proxy:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/snapei/clash-pro-rules/release/proxy.txt"
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/proxy.txt"
     path: ./ruleset/proxy.yaml
     interval: 86400
 
   direct:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/snapei/clash-pro-rules/release/direct.txt"
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/direct.txt"
     path: ./ruleset/direct.yaml
     interval: 86400
 
   cncidr:
     type: http
     behavior: ipcidr
-    url: "https://raw.githubusercontent.com/snapei/clash-pro-rules/release/cncidr.txt"
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/cncidr.txt"
     path: ./ruleset/cncidr.yaml
     interval: 86400
 
   lancidr:
     type: http
     behavior: ipcidr
-    url: "https://raw.githubusercontent.com/snapei/clash-pro-rules/release/lancidr.txt"
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/lancidr.txt"
     path: ./ruleset/lancidr.yaml
     interval: 86400
 
   youtube:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/snapei/clash-pro-rules/release/youtube.txt"
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/youtube.txt"
     path: ./ruleset/youtube.yaml
     interval: 86400
     
   netflix:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/snapei/clash-pro-rules/release/netflix.txt"
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/netflix.txt"
     path: ./ruleset/netflix.yaml
     interval: 86400
     
   netflixcidr:
     type: http
     behavior: ipcidr
-    url: "https://raw.githubusercontent.com/snapei/clash-pro-rules/release/netflixcidr.txt"
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/netflixcidr.txt"
     path: ./ruleset/netflixcidr.yaml
     interval: 86400
 
   gfw:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/snapei/clash-pro-rules/release/gfw.txt"
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/gfw.txt"
     path: ./ruleset/gfw.yaml
     interval: 86400
 
   greatfire:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/snapei/clash-pro-rules/release/greatfire.txt"
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/greatfire.txt"
     path: ./ruleset/greatfire.yaml
     interval: 86400
 
   tld-not-cn:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/snapei/clash-pro-rules/release/tld-not-cn.txt"
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/tld-not-cn.txt"
     path: ./ruleset/tld-not-cn.yaml
     interval: 86400
 
   telegramcidr:
     type: http
     behavior: ipcidr
-    url: "https://raw.githubusercontent.com/snapei/clash-pro-rules/release/telegramcidr.txt"
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/telegramcidr.txt"
     path: ./ruleset/telegramcidr.yaml
     interval: 86400
 
   applications:
     type: http
     behavior: classical
-    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt"
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/applications.txt"
     path: ./ruleset/applications.yaml
     interval: 86400   
 
