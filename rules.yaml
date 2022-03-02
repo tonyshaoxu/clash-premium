@@ -25,5 +25,6 @@ rules:
   - RULE-SET,aws-us-gov-east-2,PROXY,no-resolve
   - RULE-SET,proxy,PROXY
   - RULE-SET,direct,DIRECT
+  - GEOIP,CH,REJECT
   - GEOIP,CN,DIRECT
   - MATCH,FINAL
