@@ -174,7 +174,7 @@ rule-providers:
     path: ./ruleset/aws-us-gov-east-2.yaml
     interval: 86400 
     
-   breaking_neutrality:
+  breaking_neutrality:
     type: http
     behavior: ipcidr
     url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/breaking_neutrality.txt"
