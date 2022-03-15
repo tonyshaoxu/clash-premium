@@ -1,0 +1,6 @@
+  breaking_neutrality:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/breaking_neutrality.txt"
+    path: ./ruleset/breaking_neutrality.yaml
+    interval: 86400 

@@ -1,0 +1,6 @@
+  aws-us-east-1:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/aws-us-east-1.txt"
+    path: ./ruleset/aws-us-east-1.yaml
+    interval: 86400
