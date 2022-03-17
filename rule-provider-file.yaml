@@ -1,0 +1,156 @@
+rule-providers:
+  reject:
+    type: file
+    behavior: domain
+    path: ./ruleset/reject.yaml
+
+
+  icloud:
+    type: file
+    behavior: domain
+    path: ./ruleset/icloud.yaml
+
+
+  apple:
+    type: file
+    behavior: domain
+    path: ./ruleset/apple.yaml
+
+
+  google:
+    type: file
+    behavior: domain
+    path: ./ruleset/google.yaml
+
+
+  proxy:
+    type: file
+    behavior: domain
+    path: ./ruleset/proxy.yaml
+
+
+  direct:
+    type: file
+    behavior: domain
+    path: ./ruleset/direct.yaml
+
+
+  cncidr:
+    type: file
+    behavior: ipcidr
+    path: ./ruleset/cncidr.yaml
+
+
+  lancidr:
+    type: file
+    behavior: ipcidr
+    path: ./ruleset/lancidr.yaml
+
+
+  youtube:
+    type: file
+    behavior: domain
+    path: ./ruleset/youtube.yaml
+
+    
+  netflix:
+    type: file
+    behavior: domain
+    path: ./ruleset/netflix.yaml
+
+    
+  netflixcidr:
+    type: file
+    behavior: ipcidr
+    path: ./ruleset/netflixcidr.yaml
+
+
+  gfw:
+    type: file
+    behavior: domain
+    path: ./ruleset/gfw.yaml
+
+
+  greatfire:
+    type: file
+    behavior: domain
+    path: ./ruleset/greatfire.yaml
+
+
+  tld-not-cn:
+    type: file
+    behavior: domain
+    path: ./ruleset/tld-not-cn.yaml
+
+
+  telegramcidr:
+    type: file
+    behavior: ipcidr
+    path: ./ruleset/telegramcidr.yaml
+
+
+  applications:
+    type: file
+    behavior: classical
+    path: ./ruleset/applications.yaml
+   
+
+  bbc:
+    type: file
+    behavior: domain
+    path: ./ruleset/bbc.yaml
+ 
+
+  aws-cn-north-1:
+    type: file
+    behavior: ipcidr
+    path: ./ruleset/aws-cn-north-1.yaml
+
+
+  aws-cn-northwest-1:
+    type: file
+    behavior: ipcidr
+    path: ./ruleset/aws-cn-northwest-1.yaml
+ 
+
+  aws-us-east-1:
+    type: file
+    behavior: ipcidr
+    path: ./ruleset/aws-us-east-1.yaml
+ 
+
+  aws-us-west-1:
+    type: file
+    behavior: ipcidr
+    path: ./ruleset/aws-us-west-1.yaml
+ 
+
+  aws-us-east-2:
+    type: file
+    behavior: ipcidr
+    path: ./ruleset/aws-us-east-2.yaml
+ 
+
+  aws-us-west-2:
+    type: file
+    behavior: ipcidr
+    path: ./ruleset/aws-us-west-2.yaml
+ 
+
+  aws-us-gov-east-1:
+    type: file
+    behavior: ipcidr
+    path: ./ruleset/aws-us-gov-east-1.yaml
+ 
+
+  aws-us-gov-east-2:
+    type: file
+    behavior: ipcidr
+    path: ./ruleset/aws-us-gov-east-2.yaml
+ 
+    
+  breaking_neutrality:
+    type: file
+    behavior: ipcidr
+    path: ./ruleset/breaking_neutrality.yaml
+ 
