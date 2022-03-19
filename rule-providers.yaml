@@ -180,3 +180,11 @@ rule-providers:
     url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/breaking_neutrality.txt"
     path: ./ruleset/breaking_neutrality.yaml
     interval: 86400 
+
+
+  steam:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/steam.txt"
+    path: ./ruleset/steam.yaml
+    interval: 86400 
