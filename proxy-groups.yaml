@@ -19,6 +19,14 @@ proxy-groups:
     use:
       - UK
 
+  - name: GAMING
+    type: select
+    use:
+      - HK
+    proxies:
+      - DIRECT
+      - PROXY
+
   - name: APPLE
     type: select
     use:
