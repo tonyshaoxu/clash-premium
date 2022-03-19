@@ -153,4 +153,8 @@ rule-providers:
     type: file
     behavior: ipcidr
     path: ./ruleset/breaking_neutrality.yaml
- 
+
+  steam:
+    type: file
+    behavior: domain
+    path: ./ruleset/steam.yaml
