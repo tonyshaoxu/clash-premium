@@ -28,3 +28,4 @@ payload:
   - '+.vod-sub-uk-live.akamaized.net'
   - '+.a1-api-bbc-co-uk-cddc.at-o.net'
   - 'ibl-live-alb-ibl-edibl-196200881.eu-west-1.elb.amazonaws.com'
+  - 'prod-loadb-1vl2nichuczu7-1658270571.eu-west-1.elb.amazonaws.com'
