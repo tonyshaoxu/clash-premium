@@ -45,4 +45,3 @@ payload:
   - PROCESS-NAME,WebTorrent.exe
   - PROCESS-NAME,Shadoworocket
   - PROCESS-NAME,Quantumult X
-  - PROCESS-NAME,ssh
