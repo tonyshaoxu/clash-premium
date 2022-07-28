@@ -188,3 +188,11 @@ rule-providers:
     url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/steam.txt"
     path: ./ruleset/steam.yaml
     interval: 86400 
+
+
+  cloudflarecidr:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/cloudflarecidr.txt"
+    path: ./ruleset/cloudflarecidr.yaml
+    interval: 86400
