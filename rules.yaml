@@ -3,6 +3,7 @@ rules:
   - RULE-SET,lancidr,DIRECT,no-resolve
   - RULE-SET,breaking_neutrality,REJECT
   - RULE-SET,reject,REJECT
+  - RULE-SET,cloudflarecidr,DIRECT,no-resolve
   - RULE-SET,aws-cn-north-1,DIRECT,no-resolve
   - RULE-SET,aws-cn-northwest-1,DIRECT,no-resolve
   - RULE-SET,cncidr,DIRECT,no-resolve
