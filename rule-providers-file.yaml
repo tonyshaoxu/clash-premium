@@ -158,3 +158,9 @@ rule-providers:
     type: file
     behavior: domain
     path: ./ruleset/steam.yaml
+ 
+
+  cloudflarecidr:
+    type: file
+    behavior: ipcidr
+    path: ./ruleset/cloudflarecidr.yaml
