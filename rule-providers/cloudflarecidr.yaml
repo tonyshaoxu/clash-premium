@@ -1,0 +1,6 @@
+  cloudflarecidr:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/cloudflarecidr.yaml"
+    path: ./ruleset/cloudflarecidr.yaml
+    interval: 86400
