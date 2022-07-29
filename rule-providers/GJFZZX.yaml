@@ -1,0 +1,6 @@
+  GJFZZX:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/GJFZZX.yaml"
+    path: ./ruleset/GJFZZX.yaml
+    interval: 86400
