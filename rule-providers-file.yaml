@@ -158,7 +158,11 @@ rule-providers:
     type: file
     behavior: domain
     path: ./ruleset/steam.yaml
- 
+  
+   steam-cn:
+    type: file
+    behavior: domain
+    path: ./ruleset/steam-cn.yaml
 
   cloudflarecidr:
     type: file
