@@ -168,3 +168,8 @@ rule-providers:
     type: file
     behavior: ipcidr
     path: ./ruleset/cloudflarecidr.yaml
+    
+  GJFZZX:
+    type: file
+    behavior: classical
+    path: ./ruleset/GJFZZX.yaml
