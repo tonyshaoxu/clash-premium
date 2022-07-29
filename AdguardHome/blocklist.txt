@@ -1,0 +1,17 @@
+||fzapp.chanct.cn^
+||fzapp.gjfzpt.cn^
+||fzapph5.gjfzpt.cn^
+||aaid.umeng.com^
+||adash.man.aliyuncs.com^
+||amdcopen.m.taobao.com^
+||cgi.connect.qq.com^
+||dns.qq.com^
+||dualstack-arestapi.amap.com^
+||login.sina.com^
+||openinstall.io^
+||restsdk.amap.com^
+||stat.openinstall.io^
+||oss.chanct.cn^
+||mobilegw.alipay.com^
+||wspeed.qq.com^
+||xuexi.cn^
