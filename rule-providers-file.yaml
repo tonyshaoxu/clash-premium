@@ -159,7 +159,7 @@ rule-providers:
     behavior: domain
     path: ./ruleset/steam.yaml
   
-   steam-cn:
+  steam-cn:
     type: file
     behavior: domain
     path: ./ruleset/steam-cn.yaml
