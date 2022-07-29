@@ -1,0 +1,6 @@
+  steam-cn:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/steam-cn.yaml"
+    path: ./ruleset/steam-cn.yaml
+    interval: 86400
