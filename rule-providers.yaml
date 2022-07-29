@@ -203,3 +203,10 @@ rule-providers:
     url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/steam-cn.txt"
     path: ./ruleset/steam-cn.yaml
     interval: 86400 
+  
+  GJFZZX:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/GJFZZX.txt"
+    path: ./ruleset/GJFZZX.yaml
+    interval: 86400 
