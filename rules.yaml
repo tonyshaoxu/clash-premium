@@ -1,4 +1,5 @@
 rules:
+  - RULE-SET,GJFZZX,REJECT
   - RULE-SET,applications,DIRECT
   - RULE-SET,lancidr,DIRECT,no-resolve
   - RULE-SET,breaking_neutrality,REJECT
