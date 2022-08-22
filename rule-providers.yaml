@@ -210,3 +210,10 @@ rule-providers:
     url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/GJFZZX.txt"
     path: ./ruleset/GJFZZX.yaml
     interval: 86400 
+
+  wechat:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/wechat.txt"
+    path: ./ruleset/wechat.yaml
+    interval: 86400 
