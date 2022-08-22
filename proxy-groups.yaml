@@ -68,6 +68,12 @@ proxy-groups:
       - REJECT
       - DIRECT
 
+  - name: WECHAT
+    type: select
+    proxies:     
+      - DIRECT
+      - REJECT
+      
   - name: FINAL
     type: select
     proxies:     
