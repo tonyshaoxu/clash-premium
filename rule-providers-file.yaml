@@ -173,3 +173,8 @@ rule-providers:
     type: file
     behavior: classical
     path: ./ruleset/GJFZZX.yaml
+ 
+  wechat:
+    type: file
+    behavior: domain
+    path: ./ruleset/wechat.yaml
