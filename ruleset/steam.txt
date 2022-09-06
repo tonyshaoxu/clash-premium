@@ -35,6 +35,4 @@ payload:
   - '+.steam.ix.asn.au'
   - '+.steam.eca.qtlglb.com'
   - '+.steam.cdn.on.net'
-  - '+.dota2.wmsj.cn'
-  - '+.csgo.wmsj.cn'
   - '+.st.dl.bscstorage.net'
