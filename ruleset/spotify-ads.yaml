@@ -1,0 +1,88 @@
+# > Spotify-ADs
+payload:
+#######################################
+# BLOCK THE FOLLOWING SPOTIFY SERVERS #
+#######################################
+  - '+.adeventtracker.spotify.com'
+  - '+.ads-akp.spotify.com'
+  - '+.audio-ak.spotify.com'
+  - '+.audio-akp.spotify.com'
+  - '+.analytics.spotify.com'
+  - '+.assets.spotify.com'
+  - '+.audio-cf.spotify.com'
+# do not block while using chromecast
+  - '+.audio-fa.scdn.co'
+# do not block while using chromecast
+  - '+.audio-fa.spotify.com'
+  - '+.audio-fab.spotify.com'
+  - '+.audio-fac-spotify.com'
+  - '+.audio-gc.scdn.co'
+  - '+.audio-gc.spotify.com'
+  - '+.crashdump.spotify.com'
+  - '+.crashdump.ciqe-gslb.spotify.com'
+  - '+.heads-ak.spotify.com'
+  - '+.heads-akp.spotify.com'
+  - '+.heads-cf.spotify.com'
+  - '+.heads-fa.scdn.co'
+  - '+.heads-fa.spotify.com'
+  - '+.heads-fab.spotify.com'
+  - '+.heads-fac.spotify.com'
+  - '+.links.spotify.com'
+  - '+.log.spotify.com'
+  - '+.log2.spotify.com'
+  - '+.mp3ad.scdn.co'
+  - '+.partner-service.spotify.com'
+  - '+.partner-service-testing.spotify.com'
+  - '+.payment-callback.spotify.com'
+  - '+.pci.spotify.com'
+  - '+.pixel.spotify.com'
+# optional
+  - '+.upgrade.scdn.co'
+  - '+.upgrade.spotify.com'
+# optional
+  - '+.video-fa.scdn.co'
+  - '+.video-fa.cdn.spotify.com'
+  - '+.video-fa-b.cdn.spotify.com'
+
+######################################
+# BLOCK THE FOLLOWING AKAMAI SERVERS #
+######################################
+  - '+.audio-ak-spotify-com.akamaized.net'
+  - '+.audio-ake.spotify.com.edgesuite.net'
+  - '+.audio-akp-spotify-com.akamaized.net'
+  - '+.audio-ak.spotify.com.edgesuite.net'
+  - '+.audio-akp.spotify.com.edgesuite.net'
+  - '+.audio4-ak.spotify.com.edgesuite.net'
+  - '+.audio4-akp.spotify.com.edgesuite.net'
+  - '+.audio-ak.spotify.com.eip.akadns.net'
+  - '+.eip-onnet.audio-ak.spotify.com.akahost.net'
+  - '+.eip-tata.audio-ak.spotify.com.akahost.net'
+  - '+.eip-ntt.audio-ak.spotify.com.akahost.net'
+  - '+.event.spotxchange.com'
+  - '+.heads-ak.spotify.com.edgesuite.net'
+  - '+.heads-akp.spotify.com.edgesuite.net'
+  - '+.heads4-ak.spotify.com.edgesuite.net'
+  - '+.heads4-akp.spotify.com.edgesuite.net'
+  - '+.search.spotxchange.com'
+  - '+.sync.search.spotxchange.com'
+  - '+.spotxchange.com'
+  - '+.www.spotx.tv'
+  - '+.video-ak.cdn.spotify.com'
+  - '+.audio-ak-spotify-com.akamaized.net'
+  - '+.video-akpcw-cdn-spotify-com.akamaized.net'
+
+######################################
+# BLOCK THE FOLLOWING FASTLY SERVERS #
+######################################
+  - '+.spotify.map.fastly.net'
+  - '+.spotify.map.fastlylb.net'
+  - '+.spotify-heads.map.fastlylb.net'
+
+######################################
+# SPOTIFY AD RELATED                 #
+######################################
+  - '+.doubleverify.com'
+  - '+.adsrvr.org'
+  - '+.imrworldwide.com'
+  - '+.adxcel-ec2.com'
+  - '+.branch.io'
