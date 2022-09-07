@@ -217,3 +217,10 @@ rule-providers:
     url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/wechat.txt"
     path: ./ruleset/wechat.yaml
     interval: 86400 
+
+  spotify-ads:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/spotify-ads.txt"
+    path: ./ruleset/spotify-ads.yaml
+    interval: 86400 
