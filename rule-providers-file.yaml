@@ -178,3 +178,8 @@ rule-providers:
     type: file
     behavior: domain
     path: ./ruleset/wechat.yaml
+ 
+  spotify-ads:
+    type: file
+    behavior: domain
+    path: ./ruleset/spotify-ads.yaml
