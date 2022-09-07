@@ -1,0 +1,6 @@
+  spotify-ads:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/spotify-ads.yaml"
+    path: ./ruleset/spotify-ads.yaml
+    interval: 86400
