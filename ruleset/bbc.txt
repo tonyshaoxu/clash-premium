@@ -39,3 +39,5 @@ payload:
   - 'prod-loadb-1vl2nichuczu7-1658270571.eu-west-1.elb.amazonaws.com'
   - 'live-bag-alb-1454353449.eu-west-1.elb.amazonaws.com'
   - '+.eu-west-1.elb.amazonaws.com'
+  - 'uk-script.dotmetrics.net'
+  - 'default.bbc-reporting-api.app'
