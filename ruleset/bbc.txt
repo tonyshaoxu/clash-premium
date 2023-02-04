@@ -59,3 +59,4 @@ payload:
   - DOMAIN,launches.appsflyer.com
   - DOMAIN,public.edigitalresearch.com
   - DOMAIN,ocsp.pki.goog
+  - DOMAIN,sb.scorecardresearch.com
