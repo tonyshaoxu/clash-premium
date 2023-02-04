@@ -55,7 +55,7 @@ rule-providers:
     
   netflix:
     type: file
-    behavior: domain
+    behavior: classical
     path: ./ruleset/netflix.yaml
 
     
