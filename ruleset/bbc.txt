@@ -46,6 +46,9 @@ payload:
   - DOMAIN,prod-loadb-1vl2nichuczu7-1658270571.eu-west-1.elb.amazonaws.com
   - DOMAIN,live-bag-alb-1454353449.eu-west-1.elb.amazonaws.com
   - DOMAIN,live-a127-apiman-main-alb-96752189.eu-west-1.elb.amazonaws.com
+  - DOMAIN,0-ws--downloads-files-bbci-co-uk-0.cdn.ampproject.org
+  - DOMAIN,bbc.co.uk.edgekey.net
+  - DOMAIN,bbc.map.fastly.net
   - DOMAIN-KEYWORD,bbcfmt
   - DOMAIN-KEYWORD,uk-live
   - DOMAIN-KEYWORD,live-bag-alb-
