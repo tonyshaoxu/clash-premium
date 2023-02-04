@@ -54,6 +54,7 @@ payload:
   - DOMAIN,default.bbc-reporting-api.app
   - DOMAIN-SUFFIX,urbanairship.com
   - DOMAIN,logx.optimizely.com
+  - DOMAIN,cdn.optimizely.com
   - DOMAIN,in.appcenter.ms
   - DOMAIN,launches.appsflyer.com
   - DOMAIN,public.edigitalresearch.com
