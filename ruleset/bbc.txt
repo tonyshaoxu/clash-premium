@@ -39,7 +39,6 @@ payload:
   - DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net
   - DOMAIN,vs-hls-push-uk-live.akamaized.net
   - DOMAIN,vs-hls-pushb-uk-live.akamaized.net
-  - DOMAIN,preferences.notifications.api.bbc.co.uk
   - DOMAIN,europe-west1-bbc-otg-traf-mgr-bq-prod-4591.cloudfunctions.net
   - DOMAIN,vod-dash-uk.live.cf.md.bbci.co.uk
   - DOMAIN,a1-api-bbc-co-uk-cddc.at-o.net
