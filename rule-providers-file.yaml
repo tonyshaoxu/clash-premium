@@ -97,7 +97,7 @@ rule-providers:
 
   bbc:
     type: file
-    behavior: domain
+    behavior: classical
     path: ./ruleset/bbc.yaml
  
 
