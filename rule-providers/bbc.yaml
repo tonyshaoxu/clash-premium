@@ -1,6 +1,6 @@
   netflix:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/bbc.yaml"
     path: ./ruleset/bbc.yaml
     interval: 86400
