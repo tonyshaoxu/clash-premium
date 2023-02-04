@@ -33,12 +33,16 @@ payload:
   - DOMAIN,as-dash-uk-live.akamaized.net
   - DOMAIN,as-hls-uk-live.akamaized.net
   - DOMAIN,vs-cmaf-push-uk-live.akamaized.net
-  - DOMAIN,ocsp.sectigo.com
+  - DOMAIN,aod-pod-uk-live.akamaized.net
+  - DOMAIN,ve-dash-uk-live.akamaized.net
+  - DOMAIN,ve-uhd-push-uk-live.akamaized.net
+  - DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net
+  - DOMAIN,vs-hls-push-uk-live.akamaized.net
+  - DOMAIN,vs-hls-pushb-uk-live.akamaized.net
   - DOMAIN,preferences.notifications.api.bbc.co.uk
   - DOMAIN,europe-west1-bbc-otg-traf-mgr-bq-prod-4591.cloudfunctions.net
   - DOMAIN,vod-dash-uk.live.cf.md.bbci.co.uk
   - DOMAIN,a1-api-bbc-co-uk-cddc.at-o.net
-  - DOMAIN,mm.bidi.bbc.co.uk
   - DOMAIN,ibl-live-alb-ibl-edibl-196200881.eu-west-1.elb.amazonaws.com
   - DOMAIN,prod-loadb-1vl2nichuczu7-1658270571.eu-west-1.elb.amazonaws.com
   - DOMAIN,live-bag-alb-1454353449.eu-west-1.elb.amazonaws.com
@@ -50,6 +54,7 @@ payload:
   - DOMAIN-KEYWORD,ibl-live-alb-ibl-edibl-
   - DOMAIN-KEYWORD,prod-loadb-1vl2nichuczu7-
   - DOMAIN-KEYWORD,europe-west1-bbc-otg-traf-mgr-bq-prod-
+  - DOMAIN,ocsp.sectigo.com
   - DOMAIN,uk-script.dotmetrics.net
   - DOMAIN,default.bbc-reporting-api.app
   - DOMAIN-SUFFIX,urbanairship.com
