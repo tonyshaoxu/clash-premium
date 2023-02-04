@@ -64,7 +64,7 @@ rule-providers:
     
   netflix:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/netflix.txt"
     path: ./ruleset/netflix.yaml
     interval: 86400
