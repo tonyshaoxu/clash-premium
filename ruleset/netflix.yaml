@@ -26,7 +26,6 @@ payload:
    - DOMAIN-SUFFIX,nflxsearch.net
    - DOMAIN-SUFFIX,level3.net
    - DOMAIN-SUFFIX,nysernet.net
-   - DOMAIN-SUFFIX,ifconfig.co
    - DOMAIN,netflix.com.edgesuite.net
    - DOMAIN,h-netflix.online-metrix.net
    - DOMAIN,e13252.dscg.akamaiedge.net
