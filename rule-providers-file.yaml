@@ -183,3 +183,8 @@ rule-providers:
     type: file
     behavior: domain
     path: ./ruleset/spotify-ads.yaml
+ 
+  valvecidr:
+    type: file
+    behavior: ipcidr
+    path: ./ruleset/valvecidr.yaml
