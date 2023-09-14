@@ -1,0 +1,6 @@
+  valvecidr:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/valvecidr.yaml"
+    path: ./ruleset/valvecidr.yaml
+    interval: 86400
