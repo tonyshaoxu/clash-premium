@@ -19,7 +19,7 @@ proxy-groups:
     use:
       - UK
 
-  - name: GAMING
+  - name: STEAM
     type: select
     use:
       - HK
