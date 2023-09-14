@@ -224,3 +224,10 @@ rule-providers:
     url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/spotify-ads.txt"
     path: ./ruleset/spotify-ads.yaml
     interval: 86400 
+
+  valvecidr:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/tonyshaoxu/clash-premium/main/ruleset/valvecidr.txt"
+    path: ./ruleset/valvecidr.yaml
+    interval: 86400 
