@@ -8,7 +8,7 @@ rules:
   - RULE-SET,reject,REJECT
   - RULE-SET,steam,STEAM
   - RULE-SET,steam-cn,DIRECT
-  - RULE-SET,valvecidr,DIRECT,no-resolve
+  - RULE-SET,valvecidr,STEAM
   - RULE-SET,cloudflarecidr,DIRECT,no-resolve
   - RULE-SET,aws-cn-north-1,DIRECT,no-resolve
   - RULE-SET,aws-cn-northwest-1,DIRECT,no-resolve
