@@ -1,20 +1,19 @@
 payload:
-  - DOMAIN-SUFFIX,fzapp.chanct.cn
-  - DOMAIN-SUFFIX,fzapp.gjfzpt.cn
-  - DOMAIN-SUFFIX,fzapph5.gjfzpt.cn
-  - DOMAIN-SUFFIX,aaid.umeng.com
-  - DOMAIN-SUFFIX,adash.man.aliyuncs.com
-  - DOMAIN-SUFFIX,amdcopen.m.taobao.com
-  - DOMAIN-SUFFIX,cgi.connect.qq.com
-  - DOMAIN-SUFFIX,dns.qq.com
-  - DOMAIN-SUFFIX,dualstack-arestapi.amap.com
-  - DOMAIN-SUFFIX,login.sina.com
+  - DOMAIN,fzapp.chanct.cn
+  - DOMAIN,fzapp.gjfzpt.cn
+  - DOMAIN,fzapph5.gjfzpt.cn
+  - DOMAIN,aaid.umeng.com
+  - DOMAIN,adash.man.aliyuncs.com
+  - DOMAIN,amdcopen.m.taobao.com
+  - DOMAIN,cgi.connect.qq.com
+  - DOMAIN,dns.qq.com
+  - DOMAIN,dualstack-arestapi.amap.com
+  - DOMAIN,login.sina.com
   - DOMAIN-SUFFIX,openinstall.io
-  - DOMAIN-SUFFIX,restsdk.amap.com
-  - DOMAIN-SUFFIX,stat.openinstall.io
-  - DOMAIN-SUFFIX,oss.chanct.cn
-  - DOMAIN-SUFFIX,mobilegw.alipay.com
-  - DOMAIN-SUFFIX,wspeed.qq.com
+  - DOMAIN,restsdk.amap.com
+  - DOMAIN,oss.chanct.cn
+  - DOMAIN,mobilegw.alipay.com
+  - DOMAIN,wspeed.qq.com
   - DOMAIN-SUFFIX,xuexi.cn
   - DOMAIN-SUFFIX,gjfzpt.cn
   - IP-CIDR,14.215.158.61/32
