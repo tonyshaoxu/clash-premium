@@ -16,6 +16,9 @@ payload:
   - DOMAIN,wspeed.qq.com
   - DOMAIN-SUFFIX,xuexi.cn
   - DOMAIN-SUFFIX,gjfzpt.cn
+  - DOMAIN-SUFFIX,bbums.cn
+  - DOMAIN-SUFFIX,bbums.org.cn
+  - DOMAIN,map.bbums.cn
   - IP-CIDR,14.215.158.61/32
   - IP-CIDR,203.119.204.254/32
   - IP-CIDR,182.43.124.6/32
