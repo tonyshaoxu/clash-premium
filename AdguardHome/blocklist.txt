@@ -15,3 +15,7 @@
 ||mobilegw.alipay.com^
 ||wspeed.qq.com^
 ||xuexi.cn^
+||gjfzpt.cn^
+||bbums.cn^
+||bbums.org.cn^
+||map.bbums.cn^
