@@ -19,3 +19,6 @@
 ||bbums.cn^
 ||bbums.org.cn^
 ||map.bbums.cn^
+127.0.0.1 dns.weixin.qq.com
+127.0.0.1 paydns.wechatpay.cn
+127.0.0.1 aedns.weixin.qq.com
