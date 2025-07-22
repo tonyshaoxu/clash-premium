@@ -1,7 +1,5 @@
 #微信视频号
-#/(channels\.weixin|wxapp\.tc)\.qq\.com$/
-/channels\.weixin\.qq\.com$/
-/wxapp\.tc\.qq\.com$/
+/(channels\.weixin|wxapp\.tc)\.qq\.com$/
 #HttpDNS
 /^HttpDnsClient/
 #抖音西瓜视频
