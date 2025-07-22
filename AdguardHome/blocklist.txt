@@ -40,8 +40,11 @@
 ||voipfinderliveplaythird.wxqcloud.qq.com^
 ||ty-dldir1v6.sched.dma-dk.tdnsv5.com^
 ||pull-m1.wxlivecdn.com^
-||shmmsns.qpic.cn^
-||mmbiz.qpic.cn^
+#||shmmsns.qpic.cn^
+#||mmbiz.qpic.cn^
+#||mmsns.qpic.cn^
+/[a-z0-9]{5}.qpic\.cn/
+/[a-z0-9]{7}.qpic\.cn/
 ||sgquic.wechat.com^
 ||sgshort.wechat.com^
 ||sgminorshort.wechat.com^
@@ -53,3 +56,6 @@
 /finder[a-z0-9]{4}.video\.qq\.com/
 /finder[a-z0-9]{5}.video\.qq\.com/
 /snssvppi[a-z]{2}.video\.qq\.com/
+||finderqv.video.qq.com^
+||finderqv.video.qq.com.autodnsv1.com^
+||ty-finderqv.svideolego-dk.sched.dcloudstc.com^
