@@ -7,3 +7,5 @@
 /\.(amemv|tiktok.*|bytefcdnrd)\.com$/
 #QQ短视频
 /circlevideo.*\.photo\.qq\.com$/
+#微信朋友圈视频
+/^dl\.stream\.kg\.qq.com/
