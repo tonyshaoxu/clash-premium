@@ -48,3 +48,4 @@
 ||wx.qlogo.cn^
 ||sz-mrdl-all.gtm.s.csyrtcs.com^
 ||finderdma.video.qq.com^
+/finder\*\.video\.qq\.com/
