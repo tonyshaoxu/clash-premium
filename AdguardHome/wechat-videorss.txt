@@ -23,3 +23,37 @@
 #wx.qlogo.cn
 #sz-mrdl-all.gtm.s.csyrtcs.com
 
+127.0.0.1 dns.weixin.qq.com
+127.0.0.1 paydns.wechatpay.cn
+127.0.0.1 aedns.weixin.qq.com
+127.0.0.1 issjj.com
+
+/voipfinderrdsliveplay[0-9]{1}.wxqcloud\.qq\.com/
+
+#||shmmsns.qpic.cn^
+#||mmbiz.qpic.cn^
+#||mmsns.qpic.cn^
+/[a-z0-9]{5}.qpic\.cn/
+/[a-z0-9]{7}.qpic\.cn/
+#||sgquic.wechat.com^
+#||sgshort.wechat.com^
+#||sgminorshort.wechat.com^
+/sg[a-z0-9]{4}.wechat\.com/
+/sg[a-z0-9]{5}.wechat\.com/
+/sg[a-z0-9]{6}.wechat\.com/
+/sg[a-z0-9]{7}.wechat\.com/
+/sg[a-z0-9]{8}.wechat\.com/
+/sg[a-z0-9]{9}.wechat\.com/
+/sg[a-z0-9]{10}.wechat\.com/
+||wx.qlogo.cn^
+||sz-mrdl-all.gtm.s.csyrtcs.com^
+||finderdma.video.qq.com^
+/finder[a-z0-9]{2}.video\.qq\.com/
+/finder[a-z0-9]{3}.video\.qq\.com/
+/finder[a-z0-9]{4}.video\.qq\.com/
+/finder[a-z0-9]{5}.video\.qq\.com/
+/snssvppi[a-z]{2}.video\.qq\.com/
+||finderqv.video.qq.com^
+||finderqv.video.qq.com.autodnsv1.com^
+||ty-finderqv.svideolego-dk.sched.dcloudstc.com^
+||support.weixin.qq.com^
